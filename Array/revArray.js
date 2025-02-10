@@ -17,5 +17,5 @@
 
 
 //using inbult method
-const arr=[12,32,43,64,76]
+const arr=[12,76,'jhdw',863,'bkc']
 console.log(arr.reverse())
